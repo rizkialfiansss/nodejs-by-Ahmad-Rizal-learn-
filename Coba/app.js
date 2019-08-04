@@ -1,0 +1,1 @@
+console.log("Hello Rizki, welcome to my World");
